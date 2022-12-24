@@ -1,0 +1,19 @@
+
+@media (max-width:767.98px) {
+    nav{
+        background: red;
+        position: fixed;
+        padding: 3px;
+    }
+    
+    
+}
+@media (max-width:575.98px) {
+    nav{
+        background: yellow;
+        position: fixed;
+        padding: 3px;
+    }
+    
+        
+    }
